@@ -10,3 +10,5 @@ https://www.coolcou.com/vulkan/vulkan-tutorials/vulkan-using-cmake-building-proj
 https://www.coolcou.com/vulkan/vulkan-actual-combat/vulkan-enable-authentication-layer.html
 
 https://geek-docs.com/vulkan/vulkan-tutorial/vertex-input-description.html
+
+[Ubuntu 22.04 (Jammy Jellyfish) 安装vulkan_sdk](https://vulkan.lunarg.com/doc/sdk/1.3.236.0/linux/getting_started_ubuntu.html)
